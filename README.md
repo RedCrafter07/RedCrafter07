@@ -1,7 +1,9 @@
 ### Hey 👋
-I'm RedCrafter07. I like to program with JavaScript.
+I'm RedCrafter07. I like to program with JavaScript and Java.
 
-I've published some german Discord.js repositories here on GitHub.
+I'm a Front- and Backend Web Developer.
+
+I'm making many projects, for example (Processed)[https://github.com/ProcessedMod/Processed], my Minecraft Mod.
 
 A follow would be very appreciated ^^
 
