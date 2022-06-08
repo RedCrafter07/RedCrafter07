@@ -17,3 +17,5 @@
 A follow would be very appreciated ^^
 
 ~RedCrafter07
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrafter07)
