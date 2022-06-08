@@ -18,4 +18,4 @@ A follow would be very appreciated ^^
 
 ~RedCrafter07
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrafter07&show_icons=true&theme=calm)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrafter07&show_icons=true&theme=calm&count_private=true&include_all_commits=true)
