@@ -18,4 +18,5 @@ A follow would be very appreciated ^^
 
 ~RedCrafter07
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrafter07&show_icons=true&theme=calm&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrafter07&show_icons=true&theme=calm&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedCrafter07&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
