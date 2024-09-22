@@ -1,20 +1,13 @@
 ### Hey 👋
 `🗒️ Quick Description:` Hobby JS & Java Dev
 
-`⌨️ What I'm doing:` Web Dev (Front & Backend), Discord.js bot dev, npm Package Dev
+`⌨️ What I'm doing:` Web Dev (Fullstack), Discord.js bot dev, npm Package Dev, occasionally CI/CD and Docker stuff
 
-`🤔 Languages Known:` \[HTML\], CSS, JS, Java, TS
+`🤔 Languages Known:` \[HTML\], CSS, JavaScript, Java, TypeScript
 
-`🕰️ Most used npm Packages:` Chalk, EzTw, Discord.js, Express
+`❤️ Favourite Framwork:` React, Svelte
 
-`❤️ Favourite Framwork:` React
-
-`⭐ Favourite Youtuber:` Fireship
-
-`👀 Check out too...` [Rediverse](https://github.com/Rediverse), [Processed](https://github.com/ProcessedMod)
-
-
-A follow would be very appreciated ^^
+If you enjoy my work, I'd appreciate a follow!
 
 ~RedCrafter07
 
