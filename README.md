@@ -5,7 +5,7 @@
 
 `🤔 Languages Known:` \[HTML\], CSS, JavaScript, Java, TypeScript
 
-`❤️ Favourite Framwork:` React, Svelte
+`❤️ Favourite Framework:` React, Svelte
 
 If you enjoy my work, I'd appreciate a follow!
 
