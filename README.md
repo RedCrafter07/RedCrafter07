@@ -1,13 +1,13 @@
-### Hey 👋
-`🗒️ Quick Description:` Hobby JS & Java Dev
+### Welcome! 👋
+`🗒️ About me:` I'm a hobby fullstack Web Developer working with TypeScript
 
-`⌨️ What I'm doing:` Web Dev (Fullstack), Discord.js bot dev, npm Package Dev, occasionally CI/CD and Docker stuff
+`⌨️ What I'm doing:` Web Dev (Fullstack), occasionally desktop applications and CLI tools
 
-`🤔 Languages Known:` \[HTML\], CSS, JavaScript, Java, TypeScript
+`🤔 Languages Known:` \[HTML, CSS\], JavaScript, TypeScript, some Java
 
-`❤️ Favourite Framework:` React, Svelte
+`❤️ Favourite Frameworks:` Svelte, React
 
-If you enjoy my work, I'd appreciate a follow!
+I hope you enjoy my work!
 
 ~RedCrafter07
 
